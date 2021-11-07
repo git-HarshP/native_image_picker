@@ -1,0 +1,4 @@
+#Sun Nov 07 11:45:58 GST 2021
+base.0=/Users/harshad/Downloads/native_image_picker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

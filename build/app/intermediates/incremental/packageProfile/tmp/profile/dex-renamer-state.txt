@@ -1,0 +1,4 @@
+#Tue Oct 12 15:34:35 GST 2021
+base.0=/Users/harshad/Downloads/native_lib_poc/build/app/intermediates/dex/profile/mergeDexProfile/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

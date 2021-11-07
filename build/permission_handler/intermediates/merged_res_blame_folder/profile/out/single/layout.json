@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/harshad/Downloads/native_lib_poc/build/permission_handler/intermediates/res/merged/profile/layout/custom_dialog.xml",
+        "source": "/Users/harshad/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/harshad/Downloads/native_lib_poc/build/permission_handler/intermediates/res/merged/profile/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/harshad/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/harshad/Downloads/native_lib_poc/build/permission_handler/intermediates/res/merged/profile/layout/notification_template_icon_group.xml",
+        "source": "/Users/harshad/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/harshad/Downloads/native_lib_poc/build/permission_handler/intermediates/res/merged/profile/layout/notification_template_part_time.xml",
+        "source": "/Users/harshad/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/harshad/Downloads/native_lib_poc/build/permission_handler/intermediates/res/merged/profile/layout/notification_action_tombstone.xml",
+        "source": "/Users/harshad/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/harshad/Downloads/native_lib_poc/build/permission_handler/intermediates/res/merged/profile/layout/notification_action.xml",
+        "source": "/Users/harshad/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_action.xml"
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.native_lib_poc",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "versionCode": 1001,
+      "versionName": "1.0.0",
+      "outputFile": "app-armeabi-v7a-release.apk"
+    }
+  ]
+}
